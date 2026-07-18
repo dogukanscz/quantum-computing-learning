@@ -1,7 +1,7 @@
 # Quantum Computing Learning
 
 This repository contains quantum circuits that I created while learning
-quantum computing with IBM Quantum Composer and OpenQASM.
+quantum computing with IBM Quantum Composer, OpenQASM, Python and Qiskit.
 
 ## Current Circuits
 
@@ -9,10 +9,11 @@ quantum computing with IBM Quantum Composer and OpenQASM.
 2. Superdense Coding
 3. Phase Kickback
 4. Quantum Teleportation
+5. Quantum Half-Adder
 
 ## Technologies
 
 - IBM Quantum Composer
 - OpenQASM 2.0
-
-Python and Qiskit implementations will be added as the project progresses.
+- Python
+- Qiskit
