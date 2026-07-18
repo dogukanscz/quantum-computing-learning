@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# macOS files
+.DS_Store
+
+# PyCharm settings
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
