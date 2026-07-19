@@ -10,6 +10,7 @@ quantum computing with IBM Quantum Composer, OpenQASM, Python and Qiskit.
 3. Phase Kickback
 4. Quantum Teleportation
 5. Quantum Half-Adder
+6. Two-Qubit Grover Search
 
 ## Technologies
 
