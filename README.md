@@ -11,6 +11,7 @@ quantum computing with IBM Quantum Composer, OpenQASM, Python and Qiskit.
 4. Quantum Teleportation
 5. Quantum Half-Adder
 6. Two-Qubit Grover Search
+7. Bernstein Vazirani Algorithm
 
 ## Technologies
 
